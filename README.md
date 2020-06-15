@@ -1,7 +1,7 @@
 # parse-semver-string
 
 [![NPM version](https://img.shields.io/npm/v/parse-semver-string.svg?style=flat)](https://npmjs.org/package/parse-semver-string)
-[![Build Status](https://img.shields.io/travis/pigcan/parse-semver-string.svg?style=flat)](https://travis-ci.org/pigcan/parse-semver-string)
+[![Build Status](https://travis-ci.org/pigcan/parse-semver-string.svg?branch=master)](https://travis-ci.org/pigcan/parse-semver-string)
 [![NPM downloads](http://img.shields.io/npm/dm/parse-semver-string.svg?style=flat)](https://npmjs.org/package/parse-semver-string)
 
 
