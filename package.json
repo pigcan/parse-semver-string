@@ -1,0 +1,27 @@
+{
+  "name": "parse-semver-string",
+  "version": "0.1.0",
+  "description": "parse semver string to an object that contains name version and path",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "npm run lint && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigcan/parse-semver-string.git"
+  },
+  "keywords": [
+    "semver"
+  ],
+  "author": " <pigcan jiangjay818@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigcan/parse-semver-string/issues"
+  },
+  "homepage": "https://github.com/pigcan/parse-semver-string#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "mocha": "^8.0.1"
+  }
+}
