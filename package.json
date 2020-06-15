@@ -1,6 +1,6 @@
 {
   "name": "parse-semver-string",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "parse semver string to an object that contains name version and path",
   "main": "index.js",
   "scripts": {
